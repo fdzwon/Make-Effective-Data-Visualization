@@ -1,0 +1,56 @@
+Summary:
+
+The goal of the project is to show by using graphics and animation that it was women who survived the sinking of 
+the titanic. And of the men who did survive it was Rich men who fared far better than the rest. 
+
+Design:
+
+I initially wanted to make two simple bar graphs. One showing the breakdown of the number of survivors by gender 
+and the other by class. These would be animated to first show the number of passengers in each break down and then
+change to show the number of survivors. I chose bar graphs because I think given the data I wanted to display they seem to be 
+the simplest and easiest graph for users to understand. Also, looking through all the graphs I think it's always
+much easier to understand bar graphs as opposed to other graphs. Line graphs and scatter plot are sometimes good as
+well but for this data - bar graphs I feel definitely make the most sense.
+
+
+Feedback:
+
+Subsequent to the initial design but prior to showing friends I decided it would be 
+nice to have an addtional graph that shows the total number of passengers as a group and then the total number of 
+survivors. I was going to present this as a bar graph too but then I thought I should display the 
+numeric number of passengers and survivors as well and I thought that a bar graph with axes for the count would be
+over kill. Plus I thought one bar in a bar graph wouldn't look good because I wanted all the graphs to change to show
+first the number passengers in a particular category and then the number of survivors. So I opted instead to show this
+simple total graph as just a circle whose size would change according to whether it was representing all passengers or
+just all survivors. There were three big changes I got from the feedback. One - in the first iteration the height of 
+the second and third graphs required the user to scroll down to see the x axix labels but this was irritating and 
+difficult to do in the middle of an animation. All three friends suggested that I change this. Which I did by just making 
+the graph smaller on the page. Strangely enough this did make it quite better. Second two of my friends suggested a 
+label on the class bar graph to more clearly show that the numbers 1, 2, and 3 were the class categories. They understood 
+these were class catergories but it wasn't immediatly apparent. It took them a half second to get it.  Finally one of my
+friends wanted to stop the animation to look at each graph more closely. Because of this I knew I needed to add 
+an interactive screen at the end of the animation which would allow them to do this. In addition, all my friends could not 
+immediatly see what I was going after in showing the graph, namely that socioeconomic conditions greatly influenced a 
+passengers chances of survival. 
+
+After submitting my project and getting feedback from a reviewer I realized I needed to drastically change my graphs to show 
+the two main take aways that I wanted any viewer to get from my story. Namely, women survived the sinking of the titanic in 
+far greater proportion than men and that of the men who did surive it was Rich men who survived in far greater numbers. So 
+anything that did not contribute to these two main points I tried to eliminate. And I tried to make these points as clear as
+possible. So, the first thing I did was delete the first graph that just show how many passengers there were and how many 
+survived. Second, I decided to eliminate the graph changes that just show total number of passengers by gender and then changed
+to show total number that survived. Because this didn't clearly show the percentages of each gender who survived. So I changed
+this animated graph to a still graph so viewers can compare the survival percentage rate by gender and then in the next graph
+the survival percentage rate by class for men only. In addition, I decided to change the color scheme of the bars to highlight
+my story. So in the first graph that compares survival rate by gender I used the classic lightblue to represent males and pink
+to represent females. In the second graph I wanted to highlight that rich men surive so I colored the first class male survival 
+percentage in gold and 2nd and 3rd class in gray. With all these changes I think it's now clear and obvious what I want any 
+viewer to take away from this anaylysis. One: women survive. Two: Rich men survive. This may not seem like such a surprising 
+finding until one realizes that this tragedy is probably the norm throughout history.  
+
+Resources:
+
+StackOverflow.com
+http://bost.ocks.org/mike/
+
+
